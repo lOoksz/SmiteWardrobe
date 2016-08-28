@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ravana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\ravana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="neith" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\neith.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zeus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\zeus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sun-wukong" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\sun-wukong.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="odin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\odin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cabrakan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\cabrakan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="skadi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\skadi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="xbalanque" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\xbalanque.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="osiris" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\osiris.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="awilix" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\awilix.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chaac" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\chaac.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="form1Background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\form1Background.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ullr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\ullr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bastet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\bastet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="artemis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\artemis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="janus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\janus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vulcan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\vulcan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="cupid" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\cupid.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="he-bo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\he-bo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fafnir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\fafnir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="aphrodite" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\aphrodite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rama" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\rama.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\ra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ymir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\ymir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ares" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\ares.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="isis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\isis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="amaterasu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\amaterasu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hou-yi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\hou-yi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kukulkan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\kukulkan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="jing-wei" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\jing-wei.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="terra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\terra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="fenrir" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\fenrir.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="geb" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\geb.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nu-wa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\nu-wa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="loki" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\loki.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Sylvanus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\Sylvanus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chiron" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\chiron.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hercules" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\hercules.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="raijin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\raijin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="poseidon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\poseidon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="agni" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\agni.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ah-muzen-cab" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\ah-muzen-cab.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="susano" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\susano.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="medusa" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\medusa.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hun-batz" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\hun-batz.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="erlang-shen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\erlang-shen.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anubis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\anubis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sol" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\sol.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ah-puch" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\ah-puch.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nemesis" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\nemesis.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="mercury" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\mercury.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="change" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\change.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="guan-yu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\guan-yu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kumbhakarna" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\kumbhakarna.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sobek" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\sobek.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ne-zha" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\ne-zha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="serqet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\serqet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="xing-tian" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\xing-tian.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="apollo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\apollo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\thor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hades" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\hades.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bacchus" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\bacchus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="kali" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\kali.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bakasura" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\bakasura.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="athena" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\athena.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\hel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ratatoskr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\ratatoskr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tyr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\tyr.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nox" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\nox.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="zhong-kui" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\zhong-kui.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bellona1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\bellona.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="arachne" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\arachne.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="freya" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\freya.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="thanatos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\thanatos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chronos" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\chronos.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="anhur" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\anhur.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vamana" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\vamana.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="khepri" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\khepri.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="bellona" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\bellona.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="scylla" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\scylla.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ao-kuang" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\ao-kuang.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="izanami" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\bin\x64\Release\database\godAvatars\izanami.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

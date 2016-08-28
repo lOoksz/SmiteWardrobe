@@ -1,0 +1,8 @@
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\bin\Release\Smite Wardrobe.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\bin\Release\Smite Wardrobe.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\bin\Release\Smite Wardrobe.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\Release\Smite_Wardrobe.Form1.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\Release\Smite_Wardrobe.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\Release\Smite Wardrobe.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\Release\Smite Wardrobe.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\Release\Smite Wardrobe.pdb

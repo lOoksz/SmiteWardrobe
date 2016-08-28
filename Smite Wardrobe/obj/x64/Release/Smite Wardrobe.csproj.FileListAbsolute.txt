@@ -1,0 +1,15 @@
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\bin\x64\Release\Smite Wardrobe.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\bin\x64\Release\Smite Wardrobe.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\bin\x64\Release\Smite Wardrobe.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite_Wardrobe.Form1.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite_Wardrobe.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite Wardrobe.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite Wardrobe.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite Wardrobe.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite Wardrobe.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite_Wardrobe.RandomGodGenerator.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite_Wardrobe.Wardrobe.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite_Wardrobe.addGodToDatabaseForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite_Wardrobe.addSkinToDatabaseForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite_Wardrobe.removeGodForm.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Smite Wardrobe\Smite Wardrobe\obj\x64\Release\Smite_Wardrobe.removeSkinForm.resources
