@@ -31,7 +31,7 @@ namespace Smite_Wardrobe
         {
             try
             {
-                con.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=database/smiteDatabase.accdb;Persist Security Info=False;";
+                con.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=smiteDatabase.accdb;Persist Security Info=False;";
                 con.Open();
                 checkConnectionLabel.Text = "Connected to database";
                 cmd.Connection = con;

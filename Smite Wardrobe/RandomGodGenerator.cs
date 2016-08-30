@@ -35,7 +35,7 @@ namespace Smite_Wardrobe
         private void RandomGodGenerator_Load(object sender, EventArgs e)
         {
             classComboBox.SelectedIndex = 0;
-            con.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=database/smiteDatabase.accdb;Persist Security Info=False;";
+            con.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=smiteDatabase.accdb;Persist Security Info=False;";
             #region god_lists
             //All gods list
             try

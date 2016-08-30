@@ -23,7 +23,7 @@ namespace Smite_Wardrobe
 
         private void addSkinToDatabaseForm_Load(object sender, EventArgs e)
         {
-            con.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=database/smiteDatabase.accdb;Persist Security Info=False;";
+            con.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=smiteDatabase.accdb;Persist Security Info=False;";
 
             try
             {

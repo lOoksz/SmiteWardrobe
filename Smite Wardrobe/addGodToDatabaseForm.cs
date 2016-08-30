@@ -23,7 +23,7 @@ namespace Smite_Wardrobe
 
         private void addGodToDatabaseForm_Load(object sender, EventArgs e)
         {
-            con.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=database/smiteDatabase.accdb;Persist Security Info=False;";
+            con.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=smiteDatabase.accdb;Persist Security Info=False;";
         }
 
         private void button1_Click(object sender, EventArgs e)
