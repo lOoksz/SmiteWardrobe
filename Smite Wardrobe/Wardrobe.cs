@@ -91,6 +91,9 @@ namespace Smite_Wardrobe
                 MessageBox.Show("An error occurred when initializing all skins acquired listbox.");
                 con.Close();
             }
+
+            //update skin count label
+            skinCountLabel.Text = "Skin Count: " + WardrobeListView.Items.Count.ToString();
         }
     }
 }
